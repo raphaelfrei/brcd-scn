@@ -5,7 +5,7 @@ The app reads a CSV Report and compare with the sequences scanned.
 
 ## How To Use:<br>
 > - 1- Copy the files from the **build** folder into your machine<br>
-> - 2- Install .NET. *(Available in the **req** folder)*<br>
+> - 2- Install **[.NET](https://download.visualstudio.microsoft.com/download/pr/dc0e0e83-0115-4518-8b6a-590ed594f38a/65b63e41f6a80decb37fa3c5af79a53d/windowsdesktop-runtime-6.0.7-win-x64.exe)**.<br>
 > - 3- Open the App and select the source **CSV** file. *(It requires an CSV to work, if there's none available just submit a blank one)*<br>
 > - 4- Select the *SCAN Field* and start scanning with the barcode scanner. *(not required to click on the SCAN Button)*<br>
 > - 5- Generate the report.<br>
