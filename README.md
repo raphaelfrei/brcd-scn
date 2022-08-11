@@ -11,9 +11,9 @@ The app reads a CSV Report and compare with the sequences scanned.
 > - 5- Generate the report.<br>
 
 ## Details:
-- 1- When the sequence scanned exists in the CSV, the information field will turn **green**.<br>
-- 2- When the sequence scanned doesn't exist in the CSV, the information field will be **red**.<br>
-- 3- When you rescan a sequence, the information field will be **blue**.<br>
+> - 1- When the sequence scanned exists in the CSV, the information field will turn **green**.<br>
+> - 2- When the sequence scanned doesn't exist in the CSV, the information field will be **red**.<br>
+> - 3- When you rescan a sequence, the information field will be **blue**.<br>
 
 ## Report:
 The report will generate a CSV file. It only saves the sequence that you scanned.<br>
